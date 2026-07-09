@@ -6,7 +6,7 @@ External media credits:
 
 <div align="center">
 
-<img src="https://images.hdqwalls.com/wallpapers/anime-cyber-girl-neon-city-cr.jpg" alt="Anime cyber city wallpaper banner" width="100%" />
+<img src="https://images.hdqwalls.com/wallpapers/aki-hayakawa-chainsaw-man-yg.jpg" alt="Anime Aki Hayakawa" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:060818,45:7B2FF7,100:F72585&text=BeastBoyyy&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Aryan%20Gothwal%20%7C%20building%20in%20neon%20mode&descSize=15&descAlignY=58" alt="BeastBoyyy animated header" width="100%" />
 
