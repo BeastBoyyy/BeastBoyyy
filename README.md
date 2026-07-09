@@ -53,14 +53,21 @@ turn ideas into working things
 
 ## GitHub Pulse
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BeastBoyyy&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=F72585&icon_color=7B2FF7" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=BeastBoyyy&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=FFFFFF" alt="GitHub streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeastBoyyy&theme=radical" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=BeastBoyyy&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=FFFFFF" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeastBoyyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeastBoyyy&theme=radical" alt="Top languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeastBoyyy&theme=radical" alt="Top languages by commit" />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeastBoyyy&theme=radical" alt="GitHub profile summary" />
 
 ## Trophy Room
 
-<img src="https://github-profile-trophy.vercel.app/?username=BeastBoyyy&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies" />
+<p>
+  <img src="https://img.shields.io/badge/Quest-Code%20Streak-F72585?style=for-the-badge&logo=github&logoColor=white" alt="Code streak badge" />
+  <img src="https://img.shields.io/badge/Quest-Open%20Source-7B2FF7?style=for-the-badge&logo=git&logoColor=white" alt="Open source badge" />
+  <img src="https://img.shields.io/badge/Quest-Build%20Mode-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Build mode badge" />
+</p>
 
 ## Activity Flow
 
@@ -86,3 +93,4 @@ turn ideas into working things
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F72585,50:7B2FF7,100:060818&animation=fadeIn" alt="Animated footer wave" width="100%" />
 
 </div>
+
