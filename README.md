@@ -1,12 +1,12 @@
 <!--
 External media credits:
-- Manga/anime wallpaper: https://images.hdqwalls.com/wallpapers/aki-hayakawa-chainsaw-man-yg.jpg
+- Manga/anime wallpaper bundled at assets/aki-hayakawa-chainsaw-man.jpg
 - Anime coding GIF: https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664
 -->
 
 <div align="center">
 
-<img src="https://images.hdqwalls.com/wallpapers/aki-hayakawa-chainsaw-man-yg.jpg" alt="Aki Hayakawa Chainsaw Man wallpaper banner" width="100%" />
+<img src="https://raw.githubusercontent.com/BeastBoyyy/BeastBoyyy/main/assets/aki-hayakawa-chainsaw-man.jpg" alt="Aki Hayakawa Chainsaw Man wallpaper banner" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:060818,45:7B2FF7,100:F72585&text=BeastBoyyy&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=Aryan%20Gothwal%20%7C%20building%20in%20neon%20mode&descSize=15&descAlignY=58" alt="BeastBoyyy animated header" width="100%" />
 
